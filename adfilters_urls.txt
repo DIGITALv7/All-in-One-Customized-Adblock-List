@@ -1,3 +1,4 @@
+https://raw.githubusercontent.com/DIGITALv7/MannyMan-AdBlock/refs/heads/main/MannyMan-AdBlock.txt
 http://mute.bradconte.com/mute.txt
 http://rickrolldb.com/ricklist.txt
 https://assets.windscribe.com/custom_blocklists/clickbait.txt
